@@ -1,0 +1,26 @@
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\bin\Debug\PersonalCoach2.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\bin\Debug\PersonalCoach2.pdb
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\bin\Debug\PersonalCoach2.xml
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\obj\x86\Debug\PersonalCoach2.Resources.resources
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\obj\x86\Debug\PersonalCoach2.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\obj\x86\Debug\PersonalCoach2.xml
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\obj\x86\Debug\PersonalCoach2.pdb
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PersonalCoach2\obj\x86\Debug\PersonalCoach2.MainMenu.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\PersonalCoach2.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\PersonalCoach2.xml
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\PersonalCoach2.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\bin\Debug\PersonalCoach2.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\bin\Debug\PersonalCoach2.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\bin\Debug\PersonalCoach2.xml
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\PersonalCoach2.Resources.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\PersonalCoach2.Goals.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\PersonalCoach2.Stats.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\PersonalCoach2.Settings.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\obj\x86\Debug\PersonalCoach2.Measurement.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PersonalCoach2\PersonalCoach2\bin\Debug\PersonalCoach2.exe.config
